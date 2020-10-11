@@ -9,6 +9,7 @@ public class UserPojo {
 	private String name;
 	private String address;
 	private String mob;
+	private String e;
 	
 	public String getId() {
 		return id;
