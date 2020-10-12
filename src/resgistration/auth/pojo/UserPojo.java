@@ -9,7 +9,7 @@ public class UserPojo {
 	private String name;
 	private String address;
 	private String mob;
-	private String e;
+	
 	
 	public String getId() {
 		return id;
@@ -17,8 +17,6 @@ public class UserPojo {
 	public void setId( String id) {
 		this.id = id;
 	}
-	
-	
 	
 	
 	public String getName() {
